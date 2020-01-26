@@ -1,0 +1,6 @@
+C:\Users\Luan\source\repos\DesafioFactoryPattern\bin\Debug\DesafioFactoryPattern.exe.config
+C:\Users\Luan\source\repos\DesafioFactoryPattern\bin\Debug\DesafioFactoryPattern.exe
+C:\Users\Luan\source\repos\DesafioFactoryPattern\bin\Debug\DesafioFactoryPattern.pdb
+C:\Users\Luan\source\repos\DesafioFactoryPattern\obj\Debug\DesafioFactoryPattern.csprojAssemblyReference.cache
+C:\Users\Luan\source\repos\DesafioFactoryPattern\obj\Debug\DesafioFactoryPattern.exe
+C:\Users\Luan\source\repos\DesafioFactoryPattern\obj\Debug\DesafioFactoryPattern.pdb
